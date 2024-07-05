@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid black;
+    margin-top: 80px;
+    height: 100px;
+}
+
+.footer ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer li {
+    margin: 20px;
+}
+
+.footer div {
+    width: 70%;
+    margin: 0px 50px 0px 50px;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.footer div li {
+    margin-right: 50px;
+}
+
+.footer aside {
+    width: 30%;
+    margin: 10px 50px 0px 50px;
+    padding: 20px;
+}

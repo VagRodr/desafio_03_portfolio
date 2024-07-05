@@ -1,0 +1,12 @@
+.projects {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.title h1 {
+    display: flex;
+    justify-content: left;
+    margin:150px 0px 50px 60px;
+}
